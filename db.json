@@ -1,0 +1,37 @@
+{"computerList":[
+    {   
+        "id": 0,
+        "macAdress": "name1"
+    },
+    {
+        "id": 1,
+        "macAdress": "name2"
+    },
+    {
+        "id": 2,
+        "macAdress": "name3"
+    },
+    {
+        "id": 3,
+        "macAdress": "name4"
+    },
+    {   
+        "id": 4,
+        "macAdress": "name5"
+    },
+    {
+        "id": 5,
+        "macAdress": "name5"
+    },
+    {
+        "id": 6,
+        "macAdress": "name6"
+    },
+    {
+        "id": 7,
+        "macAdress": "name7"
+    }
+    
+    
+]
+}
